@@ -12,6 +12,7 @@ see one live usecase of this project [here](https://github.com/endurance21/quick
 ```
 
 ### HOW TO USE
+```
  Directly copy the code from src/index.js,make an instance of the class defined.
  
  Use following method  :
@@ -21,9 +22,13 @@ see one live usecase of this project [here](https://github.com/endurance21/quick
     
  2. _consume
     - dont use it directly, it is a private member function and to be used interannly by other member functions.
-    
-### CAUTION :
-The current implementation does not follow singleton design pattern , so use  only one instance across the app.
 
+```
+### CAUTION :
+```
+The current implementation does not follow singleton design pattern , so use  only one instance across the app.
+```
 ### TODO
+```
  Make the RequestsPooler Class Singleton.
+```
