@@ -7,7 +7,7 @@ consider the case where you need to make more than 30 network calls in a matter 
 In those cases it becomes complex and difficult to manage the requests , this project aims to solve that problem, it stores every requests in a queue and process it one by one, sequentially ( not vaguely), and returns a promise that will be resolve when every requests has been processed.
 
 
-see one live usecase of this project [here](https://github.com/endurance21/quick_sell_assignment) .
+see one live usecase of this project here - https://github.com/endurance21/quick_sell_assignment .
 
 ```
 
